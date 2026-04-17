@@ -1,0 +1,5 @@
+{
+  "name": "Generate Fill",
+  "description": "Upload an image, draw a mask or expand the canvas, and use AI to generate high-resolution fills (2K, 4K).",
+  "requestFramePermissions": []
+}
